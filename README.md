@@ -1,6 +1,9 @@
 # **PyCharacterAI Templates**  
 
 
+**Language:** [Português](#portuguese)
+
+---
 
 Este repositório apresenta **templates otimizados e prontos para uso** que permitem integrar a biblioteca [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI) com bots no **Discord** e **Telegram**. Esses exemplos foram criados como **bases profissionais**, ampliando as funcionalidades disponíveis no repositório oficial.  
 
