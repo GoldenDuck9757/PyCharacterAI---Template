@@ -1,6 +1,6 @@
 # **PyCharacterAI Templates**  
 
-![Banner](https://via.placeholder.com/1000x300?text=PyCharacterAI+Templates)  
+![Banner](https://media.discordapp.net/attachments/1308892854570975354/1312488587178278933/55_Sem_Titulo_20241130154018.png?ex=674cadc0&is=674b5c40&hm=2ef6ec39b84f65c8ab1b1bff13f7cfcf3a6731efa6eb5ec4b5a03dd6c0ff735f&)  
 
 Este repositório apresenta **templates otimizados e prontos para uso** que permitem integrar a biblioteca [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI) com bots no **Discord** e **Telegram**. Esses exemplos foram criados como **bases profissionais**, ampliando as funcionalidades disponíveis no repositório oficial.  
 
