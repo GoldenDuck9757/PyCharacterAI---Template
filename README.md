@@ -20,7 +20,7 @@ O [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI) é uma biblioteca para
   - Gerenciamento de sessão do Character.AI com tratamento de erros.
   - Fácil configuração com suporte a mensagens.
   
-> **Código**: O código para o bot do Discord pode ser encontrado diretamente neste repositório. É necessário copiar e colar o template de código que está disponível acima neste arquivo `README.md`.  
+> **Código**: O código para o bot do Discord pode ser encontrado no arquivo `discord.py`  
 
 ### **2. Template para Telegram**
 - **Descrição**: Cria um bot do Telegram que interage diretamente com o Character.AI, respondendo a todas as mensagens de texto recebidas.
@@ -29,7 +29,7 @@ O [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI) é uma biblioteca para
   - Gerenciamento automático de mensagens e respostas.
   - Sistema de fallback para tratar erros na conexão com o Character.AI.
   
-> **Código**: O código para o bot do Telegram também está disponível acima neste `README.md`. Copie e cole o template para configurar facilmente o bot.  
+> **Código**: O código para o bot do Discord pode ser encontrado no arquivo `telegram.py`  
 
 ---
 
