@@ -56,6 +56,23 @@ Antes de começar, certifique-se de ter os seguintes requisitos:
 2. **Personalize conforme necessário**: Sinta-se à vontade para modificar o comportamento dos bots, adicionando comandos personalizados ou ajustando como as mensagens são processadas.
 
 ---
+##  Contribuições
+
+Se você deseja contribuir para este projeto, sinta-se à vontade para **abrir um Pull Request** ou **criar um novo issue** para sugerir melhorias.
+
+---
+
+##  Desenvolvedor
+
+- **GoldenDuck9757** (desenvolvedor principal das bases)
+
+---
+
+## Contribuição
+
+- **Op3n** (contribuiu para revisar erros dos códigos, além de otomiza-los)
+
+---
 
 ## **Licença e Créditos**  
 Este projeto é baseado no repositório [PyCharacterAI](https://github.com/Xtr4F/PyCharacterAI), que fornece a API para integração com o Character.AI. O código foi **modificado e aprimorado** para criar templates otimizados para bots no Discord e Telegram.  
