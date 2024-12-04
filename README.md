@@ -64,13 +64,13 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para **abrir u
 
 ##  Desenvolvedor
 
-- **GoldenDuck9757** (desenvolvedor principal das bases)
+- **[GoldenDuck9757](https://github.com/GoldenDuck9757)** (desenvolvedor principal das bases)
 
 ---
 
 ## Contribuição
 
-- **Op3n** (contribuiu para revisar erros dos códigos, além de otomiza-los)
+- **[op3ny](https://github.com/op3ny)** (contribuiu para revisar erros dos códigos, além de otimiza-los)
 
 ---
 
