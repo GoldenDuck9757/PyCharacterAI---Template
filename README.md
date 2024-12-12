@@ -43,7 +43,7 @@ Antes de começar, certifique-se de ter os seguintes requisitos:
 1. **Python 3.8 ou superior**.
 2. Instale as dependências necessárias com o seguinte comando:
     ```bash
-    pip install discord.py aiogram PyCharacterAI
+    pip install git+https://github.com/Xtr4F/PyCharacterAI discord.py python-telegram-bot --upgrade
     ```
 
 3. **Tokens Necessários**:
